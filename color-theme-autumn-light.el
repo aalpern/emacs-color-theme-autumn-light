@@ -3,7 +3,7 @@
 ;;
 ;; Author: Adam Alpern <adam.alpern@gmail.com>
 ;; Maintainer: Adam Alpern <adam.alpern@gmail.com>
-;; URL: http://github.com/aalpern/emacs-color-theme-autumnlight
+;; URL: http://github.com/aalpern/emacs-color-theme-autumn-light
 ;; Keywords: color, theme
 ;; Version: 1.0.0
 ;; Package-Requires: ((color-theme "6.5.5"))
