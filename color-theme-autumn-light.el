@@ -89,6 +89,23 @@
  '(web-mode-html-tag-face         ((t (:foreground "DarkOrchid4" :weight bold))))
  '(web-mode-html-tag-bracket-face ((t (:foreground "DarkOrchid4" :weight bold))))
  '(web-mode-html-attr-name-face   ((t (:foreground "MediumBlue"))))
+
+ ;; js3-mode
+ '(js3-external-variable-face ((t (:foreground "red4" :weight bold))))
+
+ ;; markdown-mode
+ '(markdown-header-face-1         ((t (:foreground "firebrick" :weight bold))))
+ '(markdown-header-face-2         ((t (:foreground "firebrick" :weight bold))))
+ '(markdown-header-face-3         ((t (:foreground "firebrick" :weight bold))))
+ '(markdown-header-face-4         ((t (:foreground "firebrick"))))
+ '(markdown-header-face-5         ((t (:foreground "firebrick"))))
+ '(markdown-header-face-6         ((t (:foreground "firebrick"))))
+ '(markdown-header-rule-face      ((t (:foreground "firebrick" :weight bold))))
+ '(markdown-header-delimiter-face ((t (:foreground "firebrick"))))
+ '(markdown-link-face             ((t (:foreground "DarkOrchid4"))))
+ '(markdown-url-face              ((t (:foreground "MediumBlue"))))
+ '(markdown-list-face             ((t (:foreground "DarkGreen"))))
+ '(markdown-inline-code-face      ((t (:foreground "black" :background "DarkKhaki"))))
  )
 
 (provide-theme 'autumn-light)
