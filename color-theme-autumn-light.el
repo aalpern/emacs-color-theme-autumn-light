@@ -43,14 +43,15 @@
 (custom-theme-set-faces
  'autumn-light
 
- '(default      ((t (:foreground "black" :background "wheat" :inherit nil))))
- '(fringe       ((t (:background "wheat"))))
- '(cursor       ((t (:background "red"))))
- '(highlight    ((t (:foreground "white" :background "DarkSlateBlue"))))
- '(region       ((t (:foreground "gray90" :background "DarkSlateBlue"))))
- '(button       ((t (:inherit (link)))))
- '(link         ((t (:underline (:color foreground-color :style line) :foreground "DarkSlateBlue"))))
- '(link-visited ((t (:foreground "Purple" :underline (:color foreground-color :style line)))))
+ '(default          ((t (:foreground "black" :background "wheat" :inherit nil))))
+ '(fringe           ((t (:background "wheat"))))
+ '(cursor           ((t (:background "red"))))
+ '(highlight        ((t (:foreground "white" :background "DarkSlateBlue"))))
+ '(region           ((t (:foreground "gray90" :background "DarkSlateBlue"))))
+ '(button           ((t (:inherit (link)))))
+ '(link             ((t (:underline (:color foreground-color :style line) :foreground "DarkSlateBlue"))) )
+ '(link-visited     ((t (:foreground "Purple" :underline (:color foreground-color :style line)))))
+ '(show-paren-match ((t (:foreground "wheat" :background "black"))))
 
  '(trailing-whitespace ((((class color) (background light)) (:background "red1"))
                         (((class color) (background dark)) (:background "red1"))
