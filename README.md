@@ -10,7 +10,22 @@ package.
 
 ### Installation
 
-To use it, add this file to a directory in your load-path, then put the following in your Emacs configuration file:
+#### From MELPA
+
+If you've configured Emacs 24's `package.el` package manager to load
+from the [MELPA](http://melpa.org/) package archive, it can be
+installed simply thus:
+
+```
+M-x package-install RET autumn-light-theme RET
+```
+
+#### Manually
+
+Alternatively, To use it,
+[download autumn-light-theme.el](master/autumn-light-theme.el) to
+a directory in your load-path, then put the following in your Emacs
+configuration file:
 
 ```emacs-lisp
 (load-theme 'autumn-light t)
