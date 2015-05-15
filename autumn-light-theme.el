@@ -1,4 +1,4 @@
-;;; color-theme-autumn-light.el --- A light color theme with muted, autumnal colors.
+;;; autumn-light-theme.el --- A light color theme with muted, autumnal colors.
 ;;;
 ;; Copyright 2015 Adam Alpern
 ;;
@@ -111,4 +111,4 @@
 
 (provide-theme 'autumn-light)
 
-;;; color-theme-autumn-light.el ends here
+;;; autumn-light-theme.el ends here
