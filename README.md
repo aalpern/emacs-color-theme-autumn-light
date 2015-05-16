@@ -23,7 +23,7 @@ M-x package-install RET autumn-light-theme RET
 #### Manually
 
 Alternatively, To use it,
-[download autumn-light-theme.el](master/autumn-light-theme.el) to
+[download autumn-light-theme.el](/autumn-light-theme.el) to
 a directory in your load-path, then put the following in your Emacs
 configuration file:
 
